@@ -36,21 +36,21 @@ main{
   left: 0;
 }
 
-.flow{
+.picture{
   height: 150px;
   background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
-.flow2{
+.picture2{
   height: 150px;
   background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
-.flow3{
+.picture3{
   height: 150px;
   background-image: url(img/flow03.png);
   background-size: cover;
